@@ -66,3 +66,4 @@ public class KogtevranStudent extends HogwartsStudent {
         }
     }
 }
+//...

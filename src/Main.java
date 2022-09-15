@@ -41,7 +41,7 @@ public class Main {
         /* ehhh dont work. IDK why not working this method in Main. sheesh..
         printComparePufenduiStudents(arrPuf);
         printCompareHogwartsStudents(arrKogt[0], arrSlyz[2]);
-
+        ...
          */
     }
 }
